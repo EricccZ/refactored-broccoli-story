@@ -1,1 +1,8 @@
- Eric is a student of UW-Madios who majors in mathematics and computer science. He would like to get into a consulting firm after he graduates.
+Eric is a student of UW-Madios who majors in mathematics and computer science.
+He would like to get into a consulting firm after he graduates.
+
+Eric knows that his road will be challenging. Mathematics and computer science
+are both very difficult and competitive majors. He will have to endure long
+nights of studying for tests and completing projects all while maintaining a
+healthy college lifestyle. He plans to overcome these challenges in a few
+different ways.
